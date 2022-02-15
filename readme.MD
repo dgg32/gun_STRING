@@ -4,7 +4,7 @@
 
   
 
-This repository contains code and data for my article "[Decentralize Knowledge Graph  with GUN](https://medium.com/p/cc21765fa8a6)".
+This repository contains code and data for my article "[Decentralize Knowledge Graph  with GUN](https://dgg32.medium.com/decentralize-knowledge-graph-with-gun-9e4b0b10a400)".
 
 1. Both import_node.js and import_edge.js are used for importing the data
 
